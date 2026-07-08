@@ -1,0 +1,49 @@
+name: Metrics
+on:
+  workflow_dispatch:
+  schedule:
+    # Har kuni yarim tunda avtomatik yangilanadi (UTC vaqti)
+    - cron: "0 0 * * *"
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # --- Umumiy sozlamalar ---
+          config_timezone: Asia/Tashkent
+
+          # --- Plaginlar ---
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_threshold: 0%
+
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
+
+          plugin_lines: yes
+
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          plugin_repositories: yes
+          # Bu yerga eng ko'zga tashlamoqchi bo'lgan repongizni yozing (masalan: BEKFURR/loyiha-nomi)
+          plugin_repositories_featured: bekfurr/CHEST-PNEUMONIA-CHECKER-UI
+          plugin_repositories_random: yes
