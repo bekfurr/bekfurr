@@ -1,28 +1,90 @@
-<h1 align="center">Hi 👋, I'm Shamsiddin Kamoliddinov(BEKFURR)</h1>
-<h3 align="center">AI/ML Engineer</h3>
+<h1 align="center">Hi 👋, I'm Shamsiddin Kamoliddinov (BEKFURR)</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bekfurr&label=Profile%20views&color=0e75b6&style=flat" alt="bekfurr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bekfurr" alt="bekfurr" /></a> </p>
-
-- 🔭 I’m currently working on [CHEST PNEUMONIA CHECKER USING AI/ML](https://github.com/bekfurr/CHEST-PNEUMONIA-CHECKER-UI)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_bekfurr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_bekfurr_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bekfurr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bekfurr" height="30" width="40" /></a>
-<a href="https://kaggle.com/bekfurr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bekfurr" height="30" width="40" /></a>
-<a href="https://fb.com/bekfurr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bekfurr" height="30" width="40" /></a>
-<a href="https://instagram.com/bekfurr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bekfurr" height="30" width="40" /></a>
-<a href="https://medium.com/@shamsiddinkamoliddinov234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shamsiddinkamoliddinov234" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yoshavlodkanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yoshavlodkanali" height="30" width="40" /></a>
-<a href="/https://rss.app/feeds/aynwumwho3uoetx7.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/feeds/aynwumwho3uoetx7.xml" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Computer+Vision+%7C+Backend+%7C+Mobile;Building+practical+ML+tools" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://bekfurr.site/"><img src="https://img.shields.io/badge/Website-bekfurr.site-0E75B6?style=flat&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://t.me/BEKFURR"><img src="https://img.shields.io/badge/Telegram-@BEKFURR-26A5E4?style=flat&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/bekfurr"><img src="https://img.shields.io/badge/LinkedIn-bekfurr-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/bekfurr"><img src="https://img.shields.io/badge/Kaggle-bekfurr-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0000-0309-7408"><img src="https://img.shields.io/badge/ORCID-0009--0000--0309--7408-A6CE39?style=flat&logo=orcid&logoColor=white" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekfurr&show_icons=true&locale=en" alt="bekfurr" /></p>
+- 📍 Fergana, Uzbekistan
+- 🎯 AI/ML Engineer — computer vision & applied machine learning
+- 🔭 Currently building **[Chest Pneumonia Checker UI](https://github.com/bekfurr/CHEST-PNEUMONIA-CHECKER-UI)** — a chest-X-ray pneumonia detector with a usable interface
+- 🧪 Related work: **[CHPP Chest Pneumoniya Predictor](https://github.com/bekfurr/CHPP-CHEST-PNEUMONIYA-PREDICTOR)**, plus face-detection tools **[ATTENDANCE-PROGRAMM](https://github.com/bekfurr/ATTENDANCE-PROGRAMM)** and **[FACE_AUTHENTICATION](https://github.com/bekfurr/FACE_AUTHENTICATION)**
+- 🛠️ Also work across backend and mobile — the full path from model to shipped tool
+- 💬 Reach me on [Telegram](https://t.me/BEKFURR) or [LinkedIn](https://linkedin.com/in/bekfurr)
+- ✨ *"The Key of all successes, is Patience"*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bekfurr&" alt="bekfurr" /></p>
+<br>
 
+### 🧠 AI / ML & Computer Vision
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="42" height="42"/>
+</p>
+
+### 🛠️ Backend, Mobile & Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" alt="Django" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="42" height="42"/>
+</p>
+
+<br>
+
+### 📌 Pinned work
+
+| Project | What it does |
+|---|---|
+| [Chest Pneumonia Checker UI](https://github.com/bekfurr/CHEST-PNEUMONIA-CHECKER-UI) | Chest pneumonia detector with a usable UI |
+| [CHPP Chest Pneumoniya Predictor](https://github.com/bekfurr/CHPP-CHEST-PNEUMONIYA-PREDICTOR) | Notebook-based pneumonia prediction model |
+| [Attendance Programm](https://github.com/bekfurr/ATTENDANCE-PROGRAMM) | Attendance tracking via face detection |
+| [Face Authentication](https://github.com/bekfurr/FACE_AUTHENTICATION) | Face-based authentication flow |
+| [Video & Picture on Tkinter](https://github.com/bekfurr/Video-and-Picture-on-tkinter) | Tkinter app for handling video and images |
+| [Contact Creater](https://github.com/bekfurr/Contact-creater) | Utility for generating contacts |
+
+<br>
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bekfurr&show_icons=true&theme=tokyonight&count_private=true" alt="bekfurr's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekfurr&layout=compact&theme=tokyonight" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekfurr&theme=tokyonight" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bekfurr&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+<br>
+
+### 🌐 Connect
+
+<p align="center">
+  <a href="https://twitter.com/_bekfurr_"><img src="https://img.shields.io/badge/Twitter-@_bekfurr_-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://fb.com/bekfurr"><img src="https://img.shields.io/badge/Facebook-bekfurr-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/bekfurr"><img src="https://img.shields.io/badge/Instagram-bekfurr-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCALWrcQivo9X293YxDZH-dQ"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+  <a href="https://medium.com/@shamsiddinkamoliddinov234"><img src="https://img.shields.io/badge/Medium-@shamsiddinkamoliddinov234-000000?style=flat&logo=medium&logoColor=white" /></a>
+  <a href="https://vk.com/id681523967"><img src="https://img.shields.io/badge/VK-Profile-4C75A3?style=flat&logo=vk&logoColor=white" /></a>
+</p>
