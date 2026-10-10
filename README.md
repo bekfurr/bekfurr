@@ -18,28 +18,7 @@
 </table>
 </div>
 
-<h2>What teams can evaluate quickly</h2>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>AI/ML and Computer engineer · Jupyter Notebook · Python · C </p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>45 repositories · 39 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>124 contributions · 32 active days</p></td>
-</tr>
-</table>
-
-<p><sub>The Key of all successes, is Patience</sub></p>
-
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>45</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>39</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>124</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>11</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
 
 <p align="center">
 <picture>
