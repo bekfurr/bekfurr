@@ -1,90 +1,115 @@
-<h1 align="center">Hi 👋, I'm Shamsiddin Kamoliddinov (BEKFURR)</h1>
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · bekfurr</sub></p>
+<h1>Shamsiddin Kamoliddinov</h1>
+<h2>Computer and AI/ML engineer</h2>
+<p>The Key of all successes, is Patience</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Ferghana city, Navbahor 168 home · Building at @bekfurr</sub></p>
+<p><a href="https://github.com/bekfurr">GitHub</a> &nbsp;·&nbsp; <a href="https://yosh-avlod-kanali.vercel.app/">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/160200088?u=a94e99341e486a21b0f786ff3d4e4fd354caf73d&amp;v=4" width="180" alt="Shamsiddin Kamoliddinov GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
+
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · Python · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>45 repositories · 39 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>124 contributions · 32 active days</p></td>
+</tr>
+</table>
+
+<p><sub>The Key of all successes, is Patience</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>45</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>39</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>124</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>11</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Computer+Vision+%7C+Backend+%7C+Mobile;Building+practical+ML+tools" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=bekfurr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160200088%3Fu%3Da94e99341e486a21b0f786ff3d4e4fd354caf73d%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=bekfurr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160200088%3Fu%3Da94e99341e486a21b0f786ff3d4e4fd354caf73d%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Shamsiddin Kamoliddinov GitHub proof metrics" />
+</picture>
 </p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=bekfurr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160200088%3Fu%3Da94e99341e486a21b0f786ff3d4e4fd354caf73d%26v%3D4&repos=bekfurr%2FATTENDANCE-PROGRAMM%2Cbekfurr%2FCHEST-PNEUMONIA-CHECKER-UI%2Cbekfurr%2FCHPP-CHEST-PNEUMONIYA-PREDICTOR%2Cbekfurr%2FFACE_AUTHENTICATION&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=bekfurr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160200088%3Fu%3Da94e99341e486a21b0f786ff3d4e4fd354caf73d%26v%3D4&repos=bekfurr%2FATTENDANCE-PROGRAMM%2Cbekfurr%2FCHEST-PNEUMONIA-CHECKER-UI%2Cbekfurr%2FCHPP-CHEST-PNEUMONIYA-PREDICTOR%2Cbekfurr%2FFACE_AUTHENTICATION&v=recruiter-projects-1&mode=dark" width="100%" alt="Shamsiddin Kamoliddinov selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/bekfurr/ATTENDANCE-PROGRAMM">ATTENDANCE-PROGRAMM</a></h3>
+<p>PEOPLE ATTENDANCE WITH FACE DETECTION</p>
+<p><sub>Python · ⭐ 1 · 🍴 1</sub></p>
+<p><a href="https://github.com/bekfurr/ATTENDANCE-PROGRAMM">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/bekfurr/CHEST-PNEUMONIA-CHECKER-UI">CHEST-PNEUMONIA-CHECKER-UI</a></h3><p>CHEST PNEUMONIA DETECTOR UI VERSION</p><p><sub>Python · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/bekfurr/CHPP-CHEST-PNEUMONIYA-PREDICTOR">CHPP-CHEST-PNEUMONIYA-PREDICTOR</a></h3><p>A selected public project.</p><p><sub>Jupyter Notebook · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/bekfurr/FACE_AUTHENTICATION">FACE_AUTHENTICATION</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 1</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <a href="https://bekfurr.site/"><img src="https://img.shields.io/badge/Website-bekfurr.site-0E75B6?style=flat&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://t.me/BEKFURR"><img src="https://img.shields.io/badge/Telegram-@BEKFURR-26A5E4?style=flat&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/bekfurr"><img src="https://img.shields.io/badge/LinkedIn-bekfurr-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://kaggle.com/bekfurr"><img src="https://img.shields.io/badge/Kaggle-bekfurr-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
-  <a href="https://orcid.org/0009-0000-0309-7408"><img src="https://img.shields.io/badge/ORCID-0009--0000--0309--7408-A6CE39?style=flat&logo=orcid&logoColor=white" /></a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=bekfurr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160200088%3Fu%3Da94e99341e486a21b0f786ff3d4e4fd354caf73d%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=bekfurr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160200088%3Fu%3Da94e99341e486a21b0f786ff3d4e4fd354caf73d%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Shamsiddin Kamoliddinov technology stack" />
+</picture>
 </p>
 
-- 📍 Fergana, Uzbekistan
-- 🎯 AI/ML Engineer — computer vision & applied machine learning
-- 🔭 Currently building **[Chest Pneumonia Checker UI](https://github.com/bekfurr/CHEST-PNEUMONIA-CHECKER-UI)** — a chest-X-ray pneumonia detector with a usable interface
-- 🧪 Related work: **[CHPP Chest Pneumoniya Predictor](https://github.com/bekfurr/CHPP-CHEST-PNEUMONIYA-PREDICTOR)**, plus face-detection tools **[ATTENDANCE-PROGRAMM](https://github.com/bekfurr/ATTENDANCE-PROGRAMM)** and **[FACE_AUTHENTICATION](https://github.com/bekfurr/FACE_AUTHENTICATION)**
-- 🛠️ Also work across backend and mobile — the full path from model to shipped tool
-- 💬 Reach me on [Telegram](https://t.me/BEKFURR) or [LinkedIn](https://linkedin.com/in/bekfurr)
-- ✨ *"The Key of all successes, is Patience"*
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>61% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>17% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>13% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>3% of public code</sub></td>
+</tr>
+</table>
 
-<br>
-
-### 🧠 AI / ML & Computer Vision
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="42" height="42"/>
-</p>
-
-### 🛠️ Backend, Mobile & Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" alt="Django" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="42" height="42"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="42" height="42"/>
-</p>
-
-<br>
-
-### 📌 Pinned work
-
-| Project | What it does |
-|---|---|
-| [Chest Pneumonia Checker UI](https://github.com/bekfurr/CHEST-PNEUMONIA-CHECKER-UI) | Chest pneumonia detector with a usable UI |
-| [CHPP Chest Pneumoniya Predictor](https://github.com/bekfurr/CHPP-CHEST-PNEUMONIYA-PREDICTOR) | Notebook-based pneumonia prediction model |
-| [Attendance Programm](https://github.com/bekfurr/ATTENDANCE-PROGRAMM) | Attendance tracking via face detection |
-| [Face Authentication](https://github.com/bekfurr/FACE_AUTHENTICATION) | Face-based authentication flow |
-| [Video & Picture on Tkinter](https://github.com/bekfurr/Video-and-Picture-on-tkinter) | Tkinter app for handling video and images |
-| [Contact Creater](https://github.com/bekfurr/Contact-creater) | Utility for generating contacts |
-
-<br>
-
-### 📊 GitHub stats
+<h2>Consistency signal</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bekfurr&show_icons=true&theme=tokyonight&count_private=true" alt="bekfurr's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekfurr&layout=compact&theme=tokyonight" alt="Top languages"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=bekfurr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160200088%3Fu%3Da94e99341e486a21b0f786ff3d4e4fd354caf73d%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=bekfurr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160200088%3Fu%3Da94e99341e486a21b0f786ff3d4e4fd354caf73d%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Shamsiddin Kamoliddinov contribution activity" />
+</picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekfurr&theme=tokyonight" alt="GitHub streak"/>
-</p>
+<hr />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bekfurr&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/bekfurr">GitHub</a><br /><a href="https://yosh-avlod-kanali.vercel.app/">Website</a></td>
+</tr>
+</table>
 
-<br>
-
-### 🌐 Connect
-
-<p align="center">
-  <a href="https://twitter.com/_bekfurr_"><img src="https://img.shields.io/badge/Twitter-@_bekfurr_-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://fb.com/bekfurr"><img src="https://img.shields.io/badge/Facebook-bekfurr-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/bekfurr"><img src="https://img.shields.io/badge/Instagram-bekfurr-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UCALWrcQivo9X293YxDZH-dQ"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
-  <a href="https://medium.com/@shamsiddinkamoliddinov234"><img src="https://img.shields.io/badge/Medium-@shamsiddinkamoliddinov234-000000?style=flat&logo=medium&logoColor=white" /></a>
-  <a href="https://vk.com/id681523967"><img src="https://img.shields.io/badge/VK-Profile-4C75A3?style=flat&logo=vk&logoColor=white" /></a>
-</p>
+<p align="center"><sub>Shamsiddin Kamoliddinov · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
